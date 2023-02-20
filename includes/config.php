@@ -1,7 +1,7 @@
 <?php 
 define('DB_HOST','localhost');
 define('DB_USER','root');
-define('DB_PASS','MMfvHURw4cYERh');
+define('DB_PASS','BxzqyPor3tcXEc');
 define('DB_NAME','library');
 
 try
